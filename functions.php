@@ -3,6 +3,7 @@
  * Child theme functions
  *
  * Functions file for child theme, enqueues parent and child stylesheets by default.
+ * https://labs.ahmadawais.com/_child/
  *
  * @since	1.0.0
  * @package aa
